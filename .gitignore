@@ -1,1 +1,4 @@
+# virtual enviorment
 venv/
+# credenciales
+.env
