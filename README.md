@@ -23,7 +23,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process ca
 ## Installation
 
 1. **Clone the repository and navigate into the project directory:**
-   - git clone https://github.com/jpgomezv/ETL_Workshop_001.git
+   - git clone <https://github.com/jpgomezv/ETL_Workshop_001.git>
    - cd ETL_Workshop_001
 
 2. **Create and activate a virtual environment:**
@@ -55,6 +55,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process ca
 ## Visualizations
 
 The final analysis is presented in a Power BI dashboard, including:
+
 - Distribution of hired candidates by technology (Pie Chart).
 - Hires by year (Horizontal Bar Chart).
 - Hires by seniority (Bar Chart).
